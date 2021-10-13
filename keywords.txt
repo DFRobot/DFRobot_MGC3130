@@ -1,0 +1,65 @@
+﻿#######################################
+# Syntax Coloring Map For DFRobot_MGC3130
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_MGC3130	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+reset	KEYWORD2
+sensorDataRecv	KEYWORD2
+enableGestures	KEYWORD2
+disableGestures	KEYWORD2
+disableAirWheel	KEYWORD2
+enableAirWheel	KEYWORD2
+disableApproachDetection	KEYWORD2
+enableApproachDetection	KEYWORD2
+disableTouchDetection	KEYWORD2
+enableTouchDetection	KEYWORD2
+getPositionX	KEYWORD2
+getPositionY	KEYWORD2
+getPositionZ	KEYWORD2
+getTouchInfo	KEYWORD2
+getGestureInfo	KEYWORD2
+havePositionInfo	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+eNoError	LITERAL1
+eUnknownCommand	LITERAL1
+eWrongParameterValue	LITERAL1
+eUnknownParameterID	LITERAL1
+eWakeupHappend	LITERAL1
+DFRobot_MGC3130_IIC_ADDR	LITERAL1
+eNoGesture	LITERAL1
+eGarbageModel	LITERAL1
+eFilckR	LITERAL1
+eFilckL	LITERAL1
+eFilckU	LITERAL1
+eFilckD	LITERAL1
+eCircleClockwise	LITERAL1
+eCircleCounterclockwise	LITERAL1
+eTouchDown	LITERAL1
+eTouchLeft	LITERAL1
+eTouchUp	LITERAL1
+eTouchRight	LITERAL1
+eTouchCenter	LITERAL1
+eTapDown	LITERAL1
+eTapLeft	LITERAL1
+eTapUp	LITERAL1
+eTapRight	LITERAL1
+eTapCenter	LITERAL1
+eDoubleTapDown	LITERAL1
+eDoubleTapLeft	LITERAL1
+eDoubleTapUp	LITERAL1
+eDoubleTapRight	LITERAL1
+eDoubleTapCenter	LITERAL1
+
+ 
